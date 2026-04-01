@@ -1,1 +1,0 @@
-Analyze the 5 helpdesk tickets one by one. For each ticket, return: Category: Priority: Likely cause: Troubleshooting steps: Escalate if: Be consistent and professional.
