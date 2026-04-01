@@ -1,0 +1,14 @@
+Ticket 1:
+My Wi-Fi disconnects every 10 minutes since this morning. I restarted the laptop but it still happens.
+
+Ticket 2:
+Outlook is opening but I cannot send emails. It says connection to server failed.
+
+Ticket 3:
+The computer is extremely slow after a Windows update and keeps freezing when I open Excel.
+
+Ticket 4:
+I forgot my password and I cannot log in to my work account.
+
+Ticket 5:
+The printer is online but nothing prints, and there are three jobs stuck in the queue.
