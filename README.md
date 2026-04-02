@@ -57,3 +57,10 @@ It transforms raw support tickets into structured outputs:
 
 ## 📈 Result
 This project shows how AI can improve efficiency and consistency in IT support workflows.
+
+---
+
+## 👤 Author
+
+**Wassim Abelghouch**  
+Cybersecurity Student & Aspiring Penetration Tester
